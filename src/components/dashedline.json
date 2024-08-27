@@ -1,0 +1,397 @@
+[
+    {
+        "name": "设备2",
+        "position": {
+            "x": 0.197,
+            "y": -2.36,
+            "z": 62.273
+        }
+    },
+    {
+        "position": {
+            "x": 0.056,
+            "y": -1.95,
+            "z": 14.61
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 2
+    },
+    {
+        "position": {
+            "x": -2.363,
+            "y": -1.95,
+            "z": 14.446
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 3
+    },
+    {
+        "position": {
+            "x": -2.354,
+            "y": -1.95,
+            "z": 8.742
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 4
+    },
+    {
+        "position": {
+            "x": 1.664,
+            "y": -1.95,
+            "z": 8.609
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 5
+    },
+    {
+        "position": {
+            "x": 1.711,
+            "y": -1.95,
+            "z": 1.557
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 6
+    },
+    {
+        "position": {
+            "x": 1.164,
+            "y": -1.95,
+            "z": 1.462
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 7
+    },
+    {
+        "position": {
+            "x": 1.018,
+            "y": -2.36,
+            "z": -34.557
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 8
+    },
+    {
+        "position": {
+            "x": 6.708,
+            "y": -2.36,
+            "z": -32.765
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 9
+    },
+    {
+        "position": {
+            "x": 6.981,
+            "y": -2.36,
+            "z": -33.398
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 10
+    },
+    {
+        "position": {
+            "x": 0.929,
+            "y": -2.36,
+            "z": -35.451
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 11
+    },
+    {
+        "position": {
+            "x": 3.363,
+            "y": -2.502,
+            "z": -43.287
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 12
+    },
+    {
+        "position": {
+            "x": 15.664,
+            "y": -2.502,
+            "z": -41.86
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 13
+    },
+    {
+        "position": {
+            "x": 16.768,
+            "y": -2.502,
+            "z": -40.482
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 14
+    },
+    {
+        "position": {
+            "x": 17.789,
+            "y": -2.487,
+            "z": -41.233
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 15
+    },
+    {
+        "position": {
+            "x": 18.021,
+            "y": -2.5,
+            "z": -41.117
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 16
+    },
+    {
+        "position": {
+            "x": 19.196,
+            "y": -1.95,
+            "z": -39.517
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 17
+    },
+    {
+        "position": {
+            "x": 15.845,
+            "y": -1.95,
+            "z": -33.822
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 18
+    },
+    {
+        "position": {
+            "x": 13.592,
+            "y": -2.36,
+            "z": -25.232
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 19
+    },
+    {
+        "position": {
+            "x": 11.909,
+            "y": -2.36,
+            "z": -15.419
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 20
+    },
+    {
+        "position": {
+            "x": 15.987,
+            "y": -2.36,
+            "z": -13.777
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 21
+    },
+    {
+        "position": {
+            "x": 18.131,
+            "y": -1.95,
+            "z": -25.71
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 22
+    },
+    {
+        "position": {
+            "x": 29.584,
+            "y": -2.36,
+            "z": -41.449
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 23
+    },
+    {
+        "position": {
+            "x": 24.66,
+            "y": -2.36,
+            "z": -62.36
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 24
+    },
+    {
+        "position": {
+            "x": 17.595,
+            "y": -1.95,
+            "z": -62.382
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 25
+    },
+    {
+        "position": {
+            "x": 20.248,
+            "y": -2.36,
+            "z": -49.439
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 26
+    },
+    {
+        "position": {
+            "x": 17.781,
+            "y": -2.36,
+            "z": -47.163
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 27
+    },
+    {
+        "position": {
+            "x": 7.518,
+            "y": -2.36,
+            "z": -48.679
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 28
+    },
+    {
+        "position": {
+            "x": 3.565,
+            "y": -2.36,
+            "z": -48.283
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 29
+    },
+    {
+        "position": {
+            "x": -3.028,
+            "y": -2.36,
+            "z": -45.18
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 30
+    },
+    {
+        "position": {
+            "x": -4.818,
+            "y": -2.36,
+            "z": -44.849
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 31
+    },
+    {
+        "position": {
+            "x": -7.425,
+            "y": -1.95,
+            "z": -33.331
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 32
+    },
+    {
+        "position": {
+            "x": -13.29,
+            "y": -1.95,
+            "z": -33.238
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 33
+    },
+    {
+        "position": {
+            "x": -13.061,
+            "y": -2.36,
+            "z": -10.285
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 34
+    },
+    {
+        "position": {
+            "x": -14.772,
+            "y": -2.36,
+            "z": -4.435
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 35
+    },
+    {
+        "position": {
+            "x": -15.18,
+            "y": -2.36,
+            "z": -3.041
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 36
+    },
+    {
+        "position": {
+            "x": -15.246,
+            "y": -2.36,
+            "z": -0.207
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 37
+    },
+    {
+        "position": {
+            "x": -16.332,
+            "y": -2.36,
+            "z": 1.578
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 38
+    },
+    {
+        "position": {
+            "x": -16.041,
+            "y": -2.36,
+            "z": 19.419
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 39
+    },
+    {
+        "position": {
+            "x": -15.767,
+            "y": -2.36,
+            "z": 19.693
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 40
+    },
+    {
+        "name": "设备2",
+        "position": {
+            "x": -15.638,
+            "y": -2.36,
+            "z": 44.833
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 1
+    },
+    {
+        "position": {
+            "x": -2.728,
+            "y": -2.36,
+            "z": 44.999
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 2
+    },
+    {
+        "position": {
+            "x": -2.652,
+            "y": -2.36,
+            "z": 62.31
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 3
+    },
+    {
+        "name": "设备2",
+        "position": {
+            "x": 0.197,
+            "y": -2.36,
+            "z": 62.273
+        }
+    }
+]

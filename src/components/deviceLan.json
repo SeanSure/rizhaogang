@@ -1,0 +1,22 @@
+[
+    {
+        "name": "设备",
+        "position": {
+            "x": -19.327,
+            "y": 0.6,
+            "z": 12.547
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 1
+    },
+    {
+        "name": "设备1",
+        "position": {
+            "x": -16.427,
+            "y": 0.6,
+            "z": 12.804
+        },
+        "imgUrl": "img/icon1.png",
+        "id": 2
+    }
+]
